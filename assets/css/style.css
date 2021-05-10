@@ -1,0 +1,36 @@
+:root {
+    --cortitulo: rgb(104, 0, 0);
+    --cortexto: rgb(155, 0, 0);
+}
+
+html {
+    background-color:black;
+}
+
+h1 {
+    color: var(--cortitulo)
+}
+
+section {
+    text-align: center;
+}
+
+h2 {
+    color: var(--cortexto)
+}
+
+p {
+    color: var(--cortexto)
+}
+
+b {
+    color: var(--cortitulo)
+}
+
+a {
+    color: var(--cortitulo)
+}
+
+strong {
+    color: var(--cortexto)
+}
